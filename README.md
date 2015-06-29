@@ -9,3 +9,6 @@ Spring Boot<br/>
 
 Logging<br/>
 [10 Tips to proper application logging](http://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html)
+
+JPA Providers Benchmark
+(Tests) (http://www.jpab.org/All/All/All.html)
