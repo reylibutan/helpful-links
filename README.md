@@ -18,3 +18,7 @@ JPA
 ---------------
 [Avoid Lazy Initialziation](https://dzone.com/articles/avoid-lazy-jpa-collections) <br/>
 [JPA Providers Benchmark](http://www.jpab.org/All/All/All.html)
+
+Thymeleaf
+---------------
+[Thymeleaf Layouting - alternative to Apache Tiles integration](http://blog.codeleak.pl/2013/11/thymeleaf-template-layouts-in-spring.html)
