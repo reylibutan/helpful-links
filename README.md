@@ -22,3 +22,7 @@ JPA
 Thymeleaf
 ---------------
 [Thymeleaf Layouting - alternative to Apache Tiles integration](http://blog.codeleak.pl/2013/11/thymeleaf-template-layouts-in-spring.html)
+
+Spring Data
+---------------
+[CrudRepository vs. JpaRepository](http://stackoverflow.com/questions/14014086/what-is-difference-between-crudrepository-and-jparepository-interfaces-in-spring)
