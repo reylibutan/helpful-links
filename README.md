@@ -1,6 +1,10 @@
 # helpful-links
 Compilation of helpful links mostly related to web development specifically Java and Spring
 
+Spring
+---------------
+Intellij IDEA Spring-MVC-Maven Java-config from scratch(https://www.youtube.com/watch?v=5BY9YxdMg8I)
+
 Github
 ---------------
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -16,7 +20,7 @@ General
 
 JPA
 ---------------
-[Avoid Lazy Initialziation](https://dzone.com/articles/avoid-lazy-jpa-collections) <br/>
+[Avoid Lazy Initialization](https://dzone.com/articles/avoid-lazy-jpa-collections) <br/>
 [JPA Providers Benchmark](http://www.jpab.org/All/All/All.html)
 
 Thymeleaf
